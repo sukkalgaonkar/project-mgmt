@@ -23,3 +23,5 @@ const Input = forwardRef(function ({ label, isTextArea, ...props  }, ref){
     </p>
   )
 });
+
+export default Input;
